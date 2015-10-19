@@ -16,6 +16,10 @@ Feel free to create PR against correct category, if there aren't category that m
 
 * [cricos_scrape](https://github.com/ruby-journal/cricos_scrape.rb) - An data scraper for CRICOS website
 
+## PDF
+
+* [nguyên](https://github.com/ruby-journal/nguyen) - a wrapper for pdftk that helps filling in PDF via XFDF
+
 ## API
 
 * [grape-api-generator](https://github.com/vinh0604/grape-api-generator) - A collection of Rails generator scripts for Grape
