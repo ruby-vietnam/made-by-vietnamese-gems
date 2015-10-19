@@ -11,3 +11,7 @@ Feel free to create PR against correct category, if there aren't category that m
 ## Text Processing
 
 * [accent_strip](https://github.com/hoangnghiem/accent_strip) - strip off accents from Vietnamese text
+
+## Scrapers
+
+* [cricos_scrape](https://github.com/ruby-journal/cricos_scrape.rb) - An data scraper for CRICOS website
