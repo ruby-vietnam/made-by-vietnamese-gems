@@ -15,3 +15,7 @@ Feel free to create PR against correct category, if there aren't category that m
 ## Scrapers
 
 * [cricos_scrape](https://github.com/ruby-journal/cricos_scrape.rb) - An data scraper for CRICOS website
+
+## API
+
+* [grape-api-generator](https://github.com/vinh0604/grape-api-generator) - A collection of Rails generator scripts for Grape
