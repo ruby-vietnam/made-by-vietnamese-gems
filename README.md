@@ -23,3 +23,7 @@ Feel free to create PR against correct category, if there aren't category that m
 ## API
 
 * [grape-api-generator](https://github.com/vinh0604/grape-api-generator) - A collection of Rails generator scripts for Grape
+
+## Social Media
+
+* [facy](https://github.com/huydx/facy) - command line power tool for facebook
