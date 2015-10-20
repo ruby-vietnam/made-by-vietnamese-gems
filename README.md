@@ -27,3 +27,6 @@ Feel free to create PR against correct category, if there aren't category that m
 ## Social Media
 
 * [facy](https://github.com/huydx/facy) - command line power tool for facebook
+
+## Database
+* [lion_attr](https://github.com/tranvictor/lion_attr) - Store Mongoid object in Redis for fast access
