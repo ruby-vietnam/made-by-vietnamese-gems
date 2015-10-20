@@ -33,3 +33,8 @@ Feel free to create PR against correct category, if there aren't category that m
 
 ## Documentation
 * [rspec_wiki](https://github.com/nlds90/rspec_wiki) - Generate wiki using rspec example
+
+## Wrappers
+
+* [metaa](https://github.com/anhkind/metaa) - Meta tags with ease
+* [wepay-api](https://github.com/anhkind/wepay-api) - Ruby wrapper for Wepay API
