@@ -30,3 +30,6 @@ Feel free to create PR against correct category, if there aren't category that m
 
 ## Database
 * [lion_attr](https://github.com/tranvictor/lion_attr) - Store Mongoid object in Redis for fast access
+
+## Documentation
+* [rspec_wiki](https://github.com/nlds90/rspec_wiki) - Generate wiki using rspec example
