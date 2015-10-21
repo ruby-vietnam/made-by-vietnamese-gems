@@ -11,6 +11,7 @@ Feel free to create PR against correct category, if there aren't category that m
 ## Text Processing
 
 * [accent_strip](https://github.com/hoangnghiem/accent_strip) - strip off accents from Vietnamese text
+* [vn_tagger](https://github.com/hieuk09/ruby_vn_tagger) - a ruby wrapper for https://github.com/stnguyen/vnTagger
 
 ## Scrapers
 
