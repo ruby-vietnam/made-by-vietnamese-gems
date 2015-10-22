@@ -1,10 +1,29 @@
 # made-by-vietnamese-gems
 
-A collection of wide-range of gems that are proudly made by Vietnames
+A collection of wide-range of _high quality_ gems that are proudly made by Vietnamese. 
 
-# Submit entry
+## Submit entry
 
-Feel free to create PR against correct category, if there aren't category that matches, feel free to create new one
+Feel free to create PR against correct category, if there aren't category that matches, feel free to create new one. We do have a set of recommendation for submision to ensure gems live up to high quality expectation.
+
+Your gem should meet:
+
+* Gem should have detailed `README.md` file (see [example](https://github.com/ruby-journal/cricos_scrape.rb/blob/master/README.md)):
+  * Gem name
+  * A brief description of what it does
+  * Optional CI badge (common CI like TravisCI does have link to CI status badge)
+  * A section to show users how to install gem
+  * A section to show how to use the gem
+  * A section on license/copyright
+  * A section on Contribution Guideline
+* Gem should be versioned in gemspec
+* Gem must have terms/licenses:
+  * Specify `license` in gemspec (see [example](https://github.com/ruby-journal/cricos_scrape.rb/blob/master/cricos_scrape.gemspec#L14))
+  * Include a copy of license term in `LICENSE.md` file (see [example](https://github.com/ruby-journal/cricos_scrape.rb/blob/master/LICENSE.md))
+* Gem should have tests and be tested against supported Rubies
+  * It's recommended that you setup CI to run your test, TravisCI is one option
+
+If you need an example, please feel free to have a peek at this [gem](https://github.com/ruby-journal/cricos_scrape.rb). 
 
 # Made by Vietnamese Gems!
 
