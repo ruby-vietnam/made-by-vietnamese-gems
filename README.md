@@ -55,7 +55,9 @@ If you need an example, please feel free to have a peek at this [gem](https://gi
 * [rspec_wiki](https://github.com/nlds90/rspec_wiki) - Generate wiki using rspec example
 
 ## Productivity
+
 * [gitcopier](https://github.com/tranvictor/gitcopier) - Automate copy work between two repositories
+* [happylunch] (https://github.com/MortgageClub/HappyLunch) - A Slackbot to automatically crawl lunch menu from GiaChanhCamTuyet, take orders from team members, and submit an order on their website
 
 ## Wrappers
 
@@ -65,7 +67,3 @@ If you need an example, please feel free to have a peek at this [gem](https://gi
 ## Blog Engine
 
 * [blackhulk](https://github.com/FancyBlog/blackhulk) - An awesome blog engine. Blog posts will be saved in a GitHub Issues.
-
-## Productivity
-
-* [happylunch] (https://github.com/MortgageClub/HappyLunch) - A Slackbot to automatically crawl lunch menu from GiaChanhCamTuyet, take orders from team members, and submit an order on their website
