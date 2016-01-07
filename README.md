@@ -61,3 +61,8 @@ If you need an example, please feel free to have a peek at this [gem](https://gi
 
 * [metaa](https://github.com/anhkind/metaa) - Meta tags with ease
 * [wepay-api](https://github.com/anhkind/wepay-api) - Ruby wrapper for Wepay API
+
+## Blog Engine
+
+* [blackhulk](https://github.com/FancyBlog/blackhulk) - An awesome blog engine. Blog posts will be saved in a GitHub Issues.
+
