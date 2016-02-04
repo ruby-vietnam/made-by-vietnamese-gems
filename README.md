@@ -67,3 +67,7 @@ If you need an example, please feel free to have a peek at this [gem](https://gi
 ## Blog Engine
 
 * [blackhulk](https://github.com/FancyBlog/blackhulk) - An awesome blog engine. Blog posts will be saved in a GitHub Issues.
+
+## Search Ruby Gem
+
+* [fastgem](https://github.com/Nguyenanh/fastgem) - Command line color tool for search Ruby Gem.
