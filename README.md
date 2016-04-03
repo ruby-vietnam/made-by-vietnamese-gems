@@ -40,6 +40,10 @@ If you need an example, please feel free to have a peek at this [gem](https://gi
 
 * [nguyên](https://github.com/ruby-journal/nguyen) - a wrapper for pdftk that helps filling in PDF via XFDF
 
+## Cache
+
+* [munna](https://github.com/Coffa/munna) - a wrapper for rails cache to make it oop
+
 ## API
 
 * [grape-api-generator](https://github.com/vinh0604/grape-api-generator) - A collection of Rails generator scripts for Grape
