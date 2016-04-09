@@ -76,3 +76,4 @@ If you need an example, please feel free to have a peek at this [gem](https://gi
 
 * [fastgem](https://github.com/Nguyenanh/fastgem) - Command line color tool for search Ruby Gem.
 * [plagiarism](https://github.com/MQuy/plagiarism) - Check the unique content on internet
+* [related_word](https://github.com/lmduc/related_word) - Find the related words of a specific word
