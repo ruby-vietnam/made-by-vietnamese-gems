@@ -1,6 +1,6 @@
 # made-by-vietnamese-gems
 
-A collection of wide-range of _high quality_ gems that are proudly made by Vietnamese. 
+A collection of wide-range of _high quality_ gems that are proudly made by Vietnamese.
 
 ## Submit entry
 
@@ -23,7 +23,7 @@ Your gem should meet:
 * Gem should have tests and be tested against supported Rubies
   * It's recommended that you setup CI to run your test, TravisCI is one option
 
-If you need an example, please feel free to have a peek at this [gem](https://github.com/ruby-journal/cricos_scrape.rb). 
+If you need an example, please feel free to have a peek at this [gem](https://github.com/ruby-journal/cricos_scrape.rb).
 
 # Made by Vietnamese Gems!
 
@@ -62,6 +62,7 @@ If you need an example, please feel free to have a peek at this [gem](https://gi
 
 * [gitcopier](https://github.com/tranvictor/gitcopier) - Automate copy work between two repositories
 * [happylunch] (https://github.com/MortgageClub/HappyLunch) - A Slackbot to automatically crawl lunch menu from GiaChanhCamTuyet, take orders from team members, and submit an order on their website
+* [last_hit](https://github.com/lmduc/last_hit) - A gem for running changed tests of the current branch compared to the base branch
 
 ## Wrappers
 
