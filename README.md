@@ -83,3 +83,7 @@ If you need an example, please feel free to have a peek at this [gem](https://gi
 ## Rails
 
 * [as_json_with_includes](https://github.com/checkraiser/as_json_with_includes) - Treat your active_record includes as as_json include
+
+## Other
+
+* [decoradar](https://github.com/huynhquancam/decoradar) - simple decorator + serializer in Ruby
