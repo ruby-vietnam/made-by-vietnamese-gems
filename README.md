@@ -84,7 +84,7 @@ If you need an example, please feel free to have a peek at this [gem](https://gi
 ## Rails
 
 * [as_json_with_includes](https://github.com/checkraiser/as_json_with_includes) - Treat your active_record includes as as_json include
-* [nimble_throttler](https://github.com/kimquy/nimble_throttler) - Simple throttler that base on the IP address Edit
+* [nimble_throttler](https://github.com/kimquy/nimble_throttler) - Simple throttler that base on the IP address
 * [vue_delayed_job_dashboard](https://github.com/kimquy/delayed_job_dashboard) - Modern DelayedJob Dashboard for Ruby on Rails built with VueJS and Sinatra.
 
 ## Other
