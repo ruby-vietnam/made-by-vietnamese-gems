@@ -90,3 +90,5 @@ If you need an example, please feel free to have a peek at this [gem](https://gi
 ## Other
 
 * [decoradar](https://github.com/huynhquancam/decoradar) - simple decorator + serializer in Ruby
+* [k-templator](https://github.com/khaiql/k-templator) - Tini tool to generate new content using ERB template and YAML var file
+* [lgtm_hd](https://github.com/phradion/lgtm_hd) - LGTM Meme Generator
